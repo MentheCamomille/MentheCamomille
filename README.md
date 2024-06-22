@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shayman-salomon-966845274/" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" align="center" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shayman-salomon-966845274/" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" align="center" height="40" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menthecamomille&show_icons=true&locale=en&layout=compact" alt="menthecamomille" /></p>
